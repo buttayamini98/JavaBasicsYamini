@@ -1,0 +1,48 @@
+public class AirCooler {
+	String cooling;
+	int watertankcapacity;
+	string speedcontrol;
+	String color;
+	int size;
+	string model;
+	
+	//functions		
+	Switchon/Switchoff() {
+	}
+	
+	Waterpumpimg/(){
+	}
+	
+	Stopwaterpumping() {
+	} 
+	
+	Waterinlet/overflow() {
+	}
+	
+	applySwingon/off() {
+	}
+	coolmode() {
+	}
+}	
+-----------------------------------------
+
+public class BlackBoard {
+	string color;
+	string material;
+	int height;
+	int width;
+	string surface;
+	
+	//functions
+	write() {
+	}
+	
+	earse() {
+	}
+	
+	Displayinformation() {
+	}
+	
+	Cleaned() {
+	}
+	
