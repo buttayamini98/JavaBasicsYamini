@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class ScannerHospital {
 	public static void main(String[] args){
-	 
 	Scanner hospitalDetails = new Scanner(System.in);
 	System.out.print ("Name of the Hospital:");
 	String name = hospitalDetails.nextLine();
